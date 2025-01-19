@@ -23,7 +23,9 @@ body {
 #btnOver:hover {
     box-shadow: 0px 0px 20px 0px rgba(116, 103, 103, 0.37);
 }
-
+#btnRetry {
+    color: white;
+}
 .game-card {
     height: 100vh;
     font-family: 'Open Sans', monospace;
