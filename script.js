@@ -107,12 +107,3 @@ document.getElementById('btnEqual').addEventListener('click', function () {
         gameRun = false;
     }
 })
-
-// document.getElementById('btnLess').addEventListener('click', function () {
-//     if (gameRun){
-//         answerField.innerText = `Я всегда угадываю\n\u{1F60E}`
-//         gameRun = false;
-//     }
-// })
-
-// document.getElementById('btnRetry').addEventListener('click', location.reload())
